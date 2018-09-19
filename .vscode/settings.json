@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/megatron/.pyenv/versions/env364/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
